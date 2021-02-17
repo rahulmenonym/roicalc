@@ -3,7 +3,7 @@
     let qpw = 20;
 	let tpq = 30; 
 	
-	$: tot = no_hrp * qpw * tpq * 0.70;
+	$: tot = Math.round(no_hrp * qpw * tpq * 0.70);
 	$: hpw = Math.floor(tot/60)
 	$: mpw = tot%60
 	$: hpy = Math.round((tot*52)/60)
