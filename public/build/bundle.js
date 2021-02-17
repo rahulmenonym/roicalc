@@ -391,11 +391,11 @@ var app = (function () {
     			b1 = element("b");
     			t7 = text(/*hpy*/ ctx[5]);
     			t8 = text(" hours a year!");
-    			add_location(b0, file, 77, 23, 2173);
-    			add_location(br, file, 77, 67, 2217);
-    			add_location(b1, file, 78, 17, 2239);
+    			add_location(b0, file, 77, 23, 2180);
+    			add_location(br, file, 77, 67, 2224);
+    			add_location(b1, file, 78, 17, 2246);
     			attr_dev(div, "class", "result svelte-1vpamsl");
-    			add_location(div, file, 76, 2, 2129);
+    			add_location(div, file, 76, 2, 2136);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -462,11 +462,11 @@ var app = (function () {
     			b1 = element("b");
     			t6 = text(/*hpy*/ ctx[5]);
     			t7 = text(" hours a year!");
-    			add_location(b0, file, 72, 23, 1971);
-    			add_location(br, file, 72, 62, 2010);
-    			add_location(b1, file, 73, 17, 2032);
+    			add_location(b0, file, 72, 23, 1978);
+    			add_location(br, file, 72, 62, 2017);
+    			add_location(b1, file, 73, 17, 2039);
     			attr_dev(div, "class", "result svelte-1vpamsl");
-    			add_location(div, file, 71, 2, 1926);
+    			add_location(div, file, 71, 2, 1933);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -529,11 +529,11 @@ var app = (function () {
     			b1 = element("b");
     			t5 = text(/*hpy*/ ctx[5]);
     			t6 = text(" hours a year!");
-    			add_location(b0, file, 67, 23, 1778);
-    			add_location(br, file, 67, 51, 1806);
-    			add_location(b1, file, 68, 17, 1828);
+    			add_location(b0, file, 67, 23, 1785);
+    			add_location(br, file, 67, 51, 1813);
+    			add_location(b1, file, 68, 17, 1835);
     			attr_dev(div, "class", "result svelte-1vpamsl");
-    			add_location(div, file, 66, 2, 1733);
+    			add_location(div, file, 66, 2, 1740);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -595,11 +595,11 @@ var app = (function () {
     			b1 = element("b");
     			t5 = text(/*hpy*/ ctx[5]);
     			t6 = text(" hours a year!");
-    			add_location(b0, file, 62, 23, 1587);
-    			add_location(br, file, 62, 49, 1613);
-    			add_location(b1, file, 63, 17, 1635);
+    			add_location(b0, file, 62, 23, 1594);
+    			add_location(br, file, 62, 49, 1620);
+    			add_location(b1, file, 63, 17, 1642);
     			attr_dev(div, "class", "result svelte-1vpamsl");
-    			add_location(div, file, 61, 2, 1543);
+    			add_location(div, file, 61, 2, 1550);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -660,11 +660,11 @@ var app = (function () {
     			b1 = element("b");
     			b1.textContent = "52";
     			t6 = text(" hours a year!");
-    			add_location(b0, file, 57, 23, 1411);
-    			add_location(br, file, 57, 48, 1436);
-    			add_location(b1, file, 58, 17, 1458);
+    			add_location(b0, file, 57, 23, 1418);
+    			add_location(br, file, 57, 48, 1443);
+    			add_location(b1, file, 58, 17, 1465);
     			attr_dev(div, "class", "result svelte-1vpamsl");
-    			add_location(div, file, 56, 2, 1367);
+    			add_location(div, file, 56, 2, 1374);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -801,76 +801,76 @@ var app = (function () {
     			br4 = element("br");
     			t18 = space();
     			if (if_block) if_block.c();
-    			add_location(h1, file, 14, 4, 213);
+    			add_location(h1, file, 14, 4, 220);
     			attr_dev(label0, "for", "");
     			attr_dev(label0, "class", "svelte-1vpamsl");
-    			add_location(label0, file, 21, 4, 337);
+    			add_location(label0, file, 21, 4, 344);
     			attr_dev(div0, "class", "flex-child svelte-1vpamsl");
-    			add_location(div0, file, 20, 3, 308);
+    			add_location(div0, file, 20, 3, 315);
     			attr_dev(input0, "type", "number");
     			attr_dev(input0, "placeholder", "5");
     			attr_dev(input0, "inputmode", "numeric");
     			attr_dev(input0, "class", "svelte-1vpamsl");
-    			add_location(input0, file, 24, 4, 428);
+    			add_location(input0, file, 24, 4, 435);
     			attr_dev(input1, "type", "range");
     			attr_dev(input1, "min", "1");
     			attr_dev(input1, "max", "50");
     			attr_dev(input1, "step", "1");
     			attr_dev(input1, "class", "svelte-1vpamsl");
-    			add_location(input1, file, 25, 4, 510);
+    			add_location(input1, file, 25, 4, 517);
     			attr_dev(div1, "class", "flex-child svelte-1vpamsl");
-    			add_location(div1, file, 23, 3, 399);
+    			add_location(div1, file, 23, 3, 406);
     			attr_dev(div2, "class", "flex-container svelte-1vpamsl");
-    			add_location(div2, file, 19, 2, 276);
-    			add_location(br0, file, 28, 8, 596);
+    			add_location(div2, file, 19, 2, 283);
+    			add_location(br0, file, 28, 8, 603);
     			attr_dev(label1, "for", "");
     			attr_dev(label1, "class", "svelte-1vpamsl");
-    			add_location(label1, file, 31, 4, 664);
+    			add_location(label1, file, 31, 4, 671);
     			attr_dev(div3, "class", "flex-child svelte-1vpamsl");
-    			add_location(div3, file, 30, 3, 635);
+    			add_location(div3, file, 30, 3, 642);
     			attr_dev(input2, "type", "number");
     			attr_dev(input2, "placeholder", "20");
     			attr_dev(input2, "inputmode", "numeric");
     			attr_dev(input2, "class", "svelte-1vpamsl");
-    			add_location(input2, file, 34, 4, 755);
+    			add_location(input2, file, 34, 4, 762);
     			attr_dev(input3, "type", "range");
     			attr_dev(input3, "min", "1");
     			attr_dev(input3, "max", "100");
     			attr_dev(input3, "step", "2");
     			attr_dev(input3, "class", "svelte-1vpamsl");
-    			add_location(input3, file, 35, 4, 835);
+    			add_location(input3, file, 35, 4, 842);
     			attr_dev(div4, "class", "flex-child svelte-1vpamsl");
-    			add_location(div4, file, 33, 3, 726);
+    			add_location(div4, file, 33, 3, 733);
     			attr_dev(div5, "class", "flex-container svelte-1vpamsl");
-    			add_location(div5, file, 29, 2, 603);
-    			add_location(br1, file, 38, 8, 919);
+    			add_location(div5, file, 29, 2, 610);
+    			add_location(br1, file, 38, 8, 926);
     			attr_dev(label2, "for", "");
     			attr_dev(label2, "class", "svelte-1vpamsl");
-    			add_location(label2, file, 41, 4, 987);
+    			add_location(label2, file, 41, 4, 994);
     			attr_dev(div6, "class", "flex-child svelte-1vpamsl");
-    			add_location(div6, file, 40, 3, 958);
+    			add_location(div6, file, 40, 3, 965);
     			attr_dev(input4, "type", "number");
     			attr_dev(input4, "placeholder", "30");
     			attr_dev(input4, "inputmode", "numeric");
     			attr_dev(input4, "class", "svelte-1vpamsl");
-    			add_location(input4, file, 44, 4, 1087);
+    			add_location(input4, file, 44, 4, 1094);
     			attr_dev(input5, "type", "range");
     			attr_dev(input5, "min", "0");
     			attr_dev(input5, "max", "180");
     			attr_dev(input5, "step", "5");
     			attr_dev(input5, "class", "svelte-1vpamsl");
-    			add_location(input5, file, 45, 10, 1173);
+    			add_location(input5, file, 45, 10, 1180);
     			attr_dev(div7, "class", "flex-child svelte-1vpamsl");
-    			add_location(div7, file, 43, 3, 1058);
+    			add_location(div7, file, 43, 3, 1065);
     			attr_dev(div8, "class", "flex-container svelte-1vpamsl");
-    			add_location(div8, file, 39, 2, 926);
-    			add_location(br2, file, 48, 8, 1258);
-    			add_location(br3, file, 51, 8, 1281);
+    			add_location(div8, file, 39, 2, 933);
+    			add_location(br2, file, 48, 8, 1265);
+    			add_location(br3, file, 51, 8, 1288);
     			attr_dev(div9, "class", "item svelte-1vpamsl");
-    			add_location(div9, file, 18, 4, 255);
-    			add_location(br4, file, 54, 1, 1306);
+    			add_location(div9, file, 18, 4, 262);
+    			add_location(br4, file, 54, 1, 1313);
     			attr_dev(div10, "class", "flex svelte-1vpamsl");
-    			add_location(div10, file, 12, 0, 189);
+    			add_location(div10, file, 12, 0, 196);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
@@ -1067,7 +1067,7 @@ var app = (function () {
 
     	$$self.$$.update = () => {
     		if ($$self.$$.dirty & /*no_hrp, qpw, tpq*/ 7) {
-    			$$invalidate(6, tot = no_hrp * qpw * tpq);
+    			$$invalidate(6, tot = no_hrp * qpw * tpq * 0.7);
     		}
 
     		if ($$self.$$.dirty & /*tot*/ 64) {
