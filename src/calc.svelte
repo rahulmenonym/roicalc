@@ -29,7 +29,7 @@
         <br>
 		<div class="flex-container">
 			<div class="flex-child">
-				<label for="">Number of HR Professionals</label>
+				<label for="">Number of Queries received per week</label>
 			</div>
 			<div class="flex-child">
 				<input type="number" bind:value={qpw} placeholder="20" inputmode="numeric">
